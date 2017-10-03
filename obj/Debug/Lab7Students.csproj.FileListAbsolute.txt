@@ -1,0 +1,7 @@
+C:\Users\GC Student\Source\Repos\Lab7Students\Lab7Students\bin\Debug\Lab7Students.exe.config
+C:\Users\GC Student\Source\Repos\Lab7Students\Lab7Students\bin\Debug\Lab7Students.exe
+C:\Users\GC Student\Source\Repos\Lab7Students\Lab7Students\bin\Debug\Lab7Students.pdb
+C:\Users\GC Student\Source\Repos\Lab7Students\Lab7Students\obj\Debug\Lab7Students.csprojResolveAssemblyReference.cache
+C:\Users\GC Student\Source\Repos\Lab7Students\Lab7Students\obj\Debug\Lab7Students.csproj.CoreCompileInputs.cache
+C:\Users\GC Student\Source\Repos\Lab7Students\Lab7Students\obj\Debug\Lab7Students.exe
+C:\Users\GC Student\Source\Repos\Lab7Students\Lab7Students\obj\Debug\Lab7Students.pdb
